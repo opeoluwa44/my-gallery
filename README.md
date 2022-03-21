@@ -36,8 +36,8 @@ This Project was created as a submission to devChallenges.io
 
 ## Overview
 
-![Screenshot (10)](https://user-images.githubusercontent.com/98402971/159187309-689a8747-9f7e-4ae2-9e38-9363a4849c8d.png)
-)
+![Screenshot (12)](https://user-images.githubusercontent.com/98402971/159260142-afd39469-8d68-46db-87f8-d2d4d2e56e70.png)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -72,5 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/opeoluwa44})
+- GitHub [@opeoluwa44](https://https://github.com/opeoluwa44)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
